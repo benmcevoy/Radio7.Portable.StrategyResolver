@@ -1,7 +1,7 @@
 Radio7.Portable.StrategyResolver
 ================================
 
-http://blog.benmcevoy.com.au/resolve-strategy-by-key
+http://benmcevoy.com.au/blog/2013/09/resolve-strategy-by-key/
 
 Inject a StrategyResolver for the desired strategy implementations, and then resolve the correct strategy based on a key.
 
